@@ -9,8 +9,10 @@ const ratings = {
     oustanding: 19
 }
 
-// You should have extracted your comptencies array using extract-competencies by now.
-// Replace the empty array with yours.
+/**
+ * You should have your competencies extracted by now.
+ * Replace the empty array with your competencies, see competencies.sample
+ */
 // Fill in your ratings and comments.
 const competencies = []
 
